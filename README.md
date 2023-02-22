@@ -1,16 +1,18 @@
-# meals_app
+# Meals App
 
-A new Flutter project.
+Meals App merupakan aplikasi katalog makanan beserta detailnya (resep dan step pembuatan) yang dibuat menggunakan framework Flutter <br>
 
-## Getting Started
+Features
+-
+- Katalog makanan berdasarkan kategorinya
+- Resep makanan
+- Step pembuatan makanan
+- Tambahkan ke halaman favorit
+- Filtering makanan berdasarkan jenis makanan
+<br>
+Demo App
+-
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/92832439/220558310-0dbda09b-4583-4c25-b919-cd77588c4284.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
